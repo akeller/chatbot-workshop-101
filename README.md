@@ -1,9 +1,13 @@
 # How to Build a Chatbot
 
+Presented to the Idea to IPO meetup on 1/17
+
 ## About me
 [@MissAmaraKay](https://twitter.com/MissAmaraKay)
 
 [Medium](https://medium.com/@MissAmaraKay)
+
+[Office Hours](https://developer.ibm.com/code/community/cities/san-francisco/)
 
 ## Agenda
 * Open discussion - Has anyone built a chatbot? Have you interacted with a chatbot?
