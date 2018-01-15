@@ -17,12 +17,12 @@ https://developer.ibm.com/code/labs/#!/lab/Watson-Conversation-Intro
 * Guts of a chatbot
 * Hands on
    * *Step 1: Designing Your Bot*
-    * Design a simple set of Intents and Entities
+     * Design a simple set of Intents and Entities
    * *Step 2: Train Watson Conversation Service*
-    * Login to IBM Cloud, create Conversation Service
-    * Build a dialog, slots
+     * Login to IBM Cloud, create Conversation Service
+     * Build a dialog, slots
    * *Step 3:Test Watson Conversation Service*
-    * Test dialog flow
+     * Test dialog flow
 * Bot Asset Exchange
 * Deployment options [optional demo]
     * Slack
