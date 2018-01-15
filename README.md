@@ -2,7 +2,9 @@
 
 Presented to the Idea to IPO meetup on 1/17
 
-## About me
+https://developer.ibm.com/code/labs/#!/lab/Watson-Conversation-Intro
+
+## About Me
 [@MissAmaraKay](https://twitter.com/MissAmaraKay)
 
 [Medium](https://medium.com/@MissAmaraKay)
@@ -25,3 +27,7 @@ Presented to the Idea to IPO meetup on 1/17
     * Slack
     * Botkit (Slack, Facebook Messenger, Twilio, etc)
 * Analytics/Improve tab [optional demo]
+
+## Patterns Used
+* https://developer.ibm.com/code/journey/assemble-a-pizza-ordering-chatbot-dialog/
+* https://developer.ibm.com/code/journey/create-cognitive-banking-chatbot/
