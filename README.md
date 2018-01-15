@@ -1,7 +1,7 @@
 #How to Build a Chatbot
 
 About me
-[@MissAmaraKay] (https://twitter.com/MissAmaraKay)
+(@MissAmaraKay)[https://twitter.com/MissAmaraKay]
 https://medium.com/@MissAmaraKay
 
 Agenda
