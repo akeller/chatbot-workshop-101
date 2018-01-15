@@ -1,5 +1,9 @@
 #How to Build a Chatbot
 
+About me
+[@MissAmaraKay] (https://twitter.com/MissAmaraKay)
+https://medium.com/@MissAmaraKay
+
 Agenda
 * Open discussion - Has anyone built a chatbot? Have you interacted with a chatbot?
 * Why chatbots? (for the non-believers to believe!)
